@@ -31,6 +31,10 @@
 &nbsp;
 **Student ID:** 22-47929-2
 
+**Name:** Md. Minhazul Hassan
+&nbsp;
+**Student ID:** 23-53049-3
+
 **Course Teacher:** Sultanul Arifeen Hamim
 
 **Project Title:** MultiHAT Academy
